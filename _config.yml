@@ -86,7 +86,7 @@ author:
   location         : "Norfolk, VA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=I0IsUKkAAAAJ&hl=en"
   email            : "sdhan005@odu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.cs.odu.edu/~cs_sdhan005/"
