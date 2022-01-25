@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science | Old Dominion University | Norfolk, VA - USA | 2021 - Present
-* Master's in Information Technology | University of South Florida | Tampa, Florida - USA | 2019 - 2021
-* Bachelors in Computer Engineering | Gujarat Technological University | Gujarat, India | 2013 - 2017
-* High School | Trinity College | Kandy, Sri Lanka | 1997 -2011
+* Ph.D in Computer Science : Old Dominion University : Norfolk, VA - USA : 2021 - Present
+* Master's in Information Technology : University of South Florida : Tampa, Florida - USA : 2019 - 2021
+* Bachelors in Computer Engineering : Gujarat Technological University : Gujarat, India : 2013 - 2017
+* High School : Trinity College : Kandy, Sri Lanka : 1997 -2011
 
 Work experience
 ======
