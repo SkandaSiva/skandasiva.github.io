@@ -3,6 +3,11 @@ permalink: /classes/
 title: "Classes taken"
 ---
 
+## Fall 2022
+
+* Network Security: Concepts, Protocols and Programming
+* Web Archive Forensics
+
 ## Spring 2022
 
 * CS-800: Research Methods	
