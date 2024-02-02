@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-## Service Worker vulnerabilities and a deep dive into Sensitive functions in JavaScript 
+## Service Worker vulnerabilities and a deep dive into sensitive functions in JavaScript 
 ### Fall, 2023 - Present
 
 * Sensitive functions, which are JavaScript functions that introduce security vulnerabilities are a rarely explored avenue. Service Workers, which is a simple JavaScript file, are an integral component of Progressive Web Applications that support several rich features for the user. By incorporating sensitive functions with Service Workers, our work analyzes how real-world websites are vulnerable to several attacks.
